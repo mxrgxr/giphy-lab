@@ -1,0 +1,22 @@
+.gif-card {
+    border: 1px solid black;
+    margin:8px;
+    border-radius: 8px;
+    padding: 16px;
+    background-color: lightgray;  
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+  
+.gif-card img {
+    width: 25%;
+    height: auto;
+    border-radius: 4px;
+    margin-bottom: 8px;
+}
+  
+.gif-card p {
+    font-size: 16px;
+    text-align: center;
+ }
